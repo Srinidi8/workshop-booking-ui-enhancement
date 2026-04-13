@@ -1,16 +1,50 @@
-# React + Vite
+# Workshop Booking UI Enhancement
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Overview
+This project is a redesigned version of the FOSSEE Workshop Booking platform with a focus on improving UI/UX, responsiveness, and performance.
 
-Currently, two official plugins are available:
+The goal was to transform a basic functional interface into a modern, user-friendly, and mobile-first experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🎯 Design Principles
+- Clean and minimal UI design
+- Strong visual hierarchy using spacing and typography
+- Mobile-first approach
+- Consistent color scheme and layout
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📱 Responsiveness
+- Designed primarily for mobile users
+- Used Flexbox and Grid for adaptive layouts
+- Implemented media queries for smaller screens
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚖️ Trade-offs
+- Avoided heavy animations to maintain performance
+- Focused on simplicity instead of complex UI libraries
+
+---
+
+## ⚡ Challenges
+- Maintaining a clean design while improving functionality
+- Ensuring responsiveness across devices without breaking layout
+
+---
+
+## ✨ Features Added
+- Modern hero section
+- Workshop cards with search and filter functionality
+- Multi-step booking form with validation
+- Toast notifications for feedback
+- Responsive mobile-friendly design
+
+---
+
+## 🛠️ Setup Instructions
+
+```bash
+npm install
+npm run dev
