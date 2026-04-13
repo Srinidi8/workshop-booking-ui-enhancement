@@ -1,0 +1,27 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 18px 30px;
+  background: white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.nav-links button {
+  margin-left: 10px;
+  padding: 8px 14px;
+  border: none;
+  background: #4caf50;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.nav-links button:hover {
+  background: #388e3c;
+}
