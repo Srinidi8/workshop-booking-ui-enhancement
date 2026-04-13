@@ -43,14 +43,7 @@ The goal was to transform a basic functional interface into a modern, user-frien
 
 ---
 
-## 🛠️ Setup Instructions
-
-```bash
-npm install
-npm run dev
-
-
-## 🧠 **Reasoning**
+## 🧠 Reasoning
 
 ### 1. What design principles guided your improvements?
 I focused on keeping the design clean, simple, and easy to use. I used proper spacing, clear headings, and consistent colors to create a good visual hierarchy. The goal was to make the interface intuitive so users can navigate without confusion.
@@ -69,3 +62,10 @@ I avoided using heavy animations and external UI libraries to keep the applicati
 
 ### 4. What was the most challenging part of the task and how did you approach it?
 The most challenging part was improving the UI while keeping the existing structure intact. I approached this by first understanding the existing layout and then gradually enhancing each component step by step without breaking functionality.
+
+
+## 🛠️ Setup Instructions
+
+```bash
+npm install
+npm run dev
