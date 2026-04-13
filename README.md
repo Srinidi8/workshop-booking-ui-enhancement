@@ -48,3 +48,23 @@ The goal was to transform a basic functional interface into a modern, user-frien
 ```bash
 npm install
 npm run dev
+
+## 🧠 Reasoning
+
+### 1. What design principles guided your improvements?
+I focused on keeping the design clean, simple, and easy to use. I used proper spacing, clear headings, and consistent colors to create a good visual hierarchy. The goal was to make the interface intuitive so users can navigate without confusion.
+
+---
+
+### 2. How did you ensure responsiveness across devices?
+I followed a mobile-first approach while designing the UI. I used Flexbox and CSS Grid for layout and added media queries to adjust the design for smaller screens. Buttons and inputs were also made touch-friendly for mobile users.
+
+---
+
+### 3. What trade-offs did you make between the design and performance?
+I avoided using heavy animations and external UI libraries to keep the application fast and lightweight. Instead, I used simple CSS styling and minimal animations to balance good design with performance.
+
+---
+
+### 4. What was the most challenging part of the task and how did you approach it?
+The most challenging part was improving the UI while keeping the existing structure intact. I approached this by first understanding the existing layout and then gradually enhancing each component step by step without breaking functionality.
