@@ -49,6 +49,7 @@ The goal was to transform a basic functional interface into a modern, user-frien
 npm install
 npm run dev
 
+
 ## 🧠 Reasoning
 
 ### 1. What design principles guided your improvements?
