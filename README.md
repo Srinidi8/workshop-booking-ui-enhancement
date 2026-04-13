@@ -50,7 +50,7 @@ npm install
 npm run dev
 
 
-## 🧠 Reasoning
+## 🧠 **Reasoning**
 
 ### 1. What design principles guided your improvements?
 I focused on keeping the design clean, simple, and easy to use. I used proper spacing, clear headings, and consistent colors to create a good visual hierarchy. The goal was to make the interface intuitive so users can navigate without confusion.
